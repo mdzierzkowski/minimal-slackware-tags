@@ -16,6 +16,10 @@ Note that this is not a hardcore minimal set of packages. My goal is to provide 
 
 *Important: There is no support for RAID, LVM, Luks and filesystems other then Ext4 by default. To use generic kernel with initrd.gz a/mkinitrd has to be installed first.*
 
+### FAQ
+Q: How to install `slackpkg`?
+A: `installpkg which wget ncurses gnupg dialog slackpkg`
+
 #### Disclaimer
 
 "Minimal Slackware" is not affiliated with or officially endorsed by either Patrick Volkerding or Slackware Linux, Inc.
