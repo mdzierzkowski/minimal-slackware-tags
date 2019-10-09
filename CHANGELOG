@@ -1,5 +1,6 @@
-Wed 9 Oct 09:02:52 UTC 2019
-Added base_xorg for minimal installation with Xorg
+Wed 9 Oct 09:32:44 UTC 2019
+Added tags.zip files for easy download
+Created base_xorg tagfiles for Slackware64-14.2
 +--------------------------+
 Sun 22 Sep 16:47:27 UTC 2019
 Created base tagfiles for Slackware64-14.2
