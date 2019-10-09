@@ -10,6 +10,7 @@ missing ap/sqlite
 ```
 
 ***Important:
+Remember to install correct GPU driver. 
 There is no support for RAID, LVM, Luks and filesystems other then Ext4 by default.
 To use generic kernel with initrd.gz a/mkinitrd has to be installed first.***
 
