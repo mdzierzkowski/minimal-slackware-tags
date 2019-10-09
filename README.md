@@ -12,7 +12,7 @@ Note that this is not a hardcore minimal set of packages. My goal is to provide 
 ### Contnet
 + **Base**: this tagfiles provide a minimal usable installation of Slackware Linux including UEFI boot, kernel-huge, wired and wireless networking, *but no Xorg*. 
 + **Base Xorg**: this tagfiles provide a minimal usable installation of Slackware Linux including UEFI boot, kernel-huge, wired and wireless networking, with Xorg.
-+ **Original tags**: set of tagfiles form Slackware 14.2 iso image.
++ **Slackware tags**: set of tagfiles form Slackware 14.2 iso image.
 
 *Important: There is no support for RAID, LVM, Luks and filesystems other then Ext4 by default. To use generic kernel with initrd.gz a/mkinitrd has to be installed first.*
 
