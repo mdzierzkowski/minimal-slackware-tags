@@ -5,12 +5,12 @@
 **Tagfiles and list of packages for minimal installation of Slackware Linux 14.2**
 
 ### Why?
-I like the idea of a minimal system with only the software I need, something like FreeBSD's *base* with some programs form ports. In default istallation of a **Slackware Linux** there are 8 (eight) console text editors (some of them have no release for almost 10 years), 4 console mail clients, etc. If I don't use them why install them?
+I like the idea of a minimal system with only the software I need, something like FreeBSD's *base* with some programs form ports. In default istallation of a **Slackware Linux** there are 8 (eight) console text editors (some of them have no new release for almost 10 years), 4 console mail clients, etc. If I don't use them why install them?
 
 Note that this is not a hardcore minimal set of packages. My goal is to provide a minimal **usable** installation. Having no network is not usable for most cases. 
 
 ### Contnet
-+ **Base**: this tagfiles provide a minimal usable installation of Slackware Linux including UEFI boot, kernel-huge, wired and wireless networking, *but no Xorg*. 
++ **Base**: these tagfiles provide a minimal usable installation of Slackware Linux including UEFI boot, kernel-huge, wired and wireless networking, *but no Xorg*. 
 + **Base Xorg**: same as **Base**, but with Xorg.
 + **Slackware tags**: set of tagfiles form Slackware 14.2 iso image.
 
@@ -18,8 +18,10 @@ Note that this is not a hardcore minimal set of packages. My goal is to provide 
 
 ### FAQ
 Q: How to install *slackpkg*?  
-A: You need *slackpkg* and it's dependencies: *which, wget, ncurses, gnupg, dialog*.
+A: You need *slackpkg* and it's dependencies: *which*, *wget*, *ncurses*, *gnupg*, and *dialog*.
 
+Q: Update for Slackware 15?  
+A: Maybe someday, but no ETA.
 
 ***
 #### Disclaimer
