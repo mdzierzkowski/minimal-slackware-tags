@@ -1,4 +1,4 @@
-**Base Xorg**: this tagfiles provide a minimal usable installation of Slackware Linux including UEFI boot, kernel-huge, wired and wireless networking, with Xorg. However there are some broken dependencies:
+**Base Xorg**: these tagfiles provide a minimal usable installation of Slackware Linux including UEFI boot, kernel-huge, wired and wireless networking, with Xorg. However there are some broken dependencies:
 
 ```
 /usr/lib64/qt/bin/assistant from qt
