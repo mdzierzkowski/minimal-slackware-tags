@@ -1,4 +1,4 @@
-**Minimal base**: this tagfiles provide a minimal usable installation of Slackware Linux including UEFI boot, kernel-huge, wired and wireless networking, but no Xorg. However there are some broken dependencies:
+**Minimal base**: these tagfiles provide a minimal usable installation of Slackware Linux including UEFI boot, kernel-huge, wired and wireless networking, but no Xorg. However there are some broken dependencies:
 
 ```
 /usr/bin/floppyd from floppy
